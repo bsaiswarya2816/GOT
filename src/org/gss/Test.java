@@ -7,5 +7,13 @@ public class Test {
 	private void Yuritte() {
 		System.out.println("Yuritte");
 	}
+	private void sam() {
+		// TODO Auto-generated method stub
+
+	}
+	private void trayon() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
